@@ -12,6 +12,8 @@ images=[
       ('nb02.jpg','Niels Bohr'),
       ('nb03.jpg','Niels Bohr'),
       ('nb04.jpg','Niels Bohr'),
+      ('ami01.jpg','Asep Maulana Ismail'),
+      ('ami02.jpg','Asep Maulana Ismail'),
       ]
 
 # Iterate through list to upload objects to S3   
